@@ -1,0 +1,14 @@
+.container {
+	margin: 0 auto;
+	max-width: 100%;
+}
+.header_customers {
+    display: block;
+    margin-right: 0;
+}
+.footer {
+    flex-direction: column-reverse;
+}
+.pagination {
+    margin-bottom: 10px;
+}
