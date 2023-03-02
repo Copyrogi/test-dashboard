@@ -1,0 +1,4 @@
+@import url("css/main.css");
+@import url("css/style640.css") screen and (max-width: 640px);
+@import url("css/style1360.css") screen and (max-width: 1360px);
+@import url("css/style1150.css") screen and (max-width: 1150px);
